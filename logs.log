@@ -1,0 +1,12 @@
+
+INFO:root:Banca: 217.5, 2024-04-05 18:05:35.764302, 2024-04-05 18:19:48.886851
+INFO:root:Banca: 32.0, 2024-04-05 18:55:36.123551, 2024-04-05 19:11:10.774175
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A0FD99EE0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a380979b7d01de5c384b0a085afb1b5f/elements
+INFO:root:Banca: 120.0, 2024-04-06 12:20:21.944784, 2024-04-06 12:35:07.393043
+INFO:root:Banca: 120.0, 2024-04-06 14:28:58.928939, 2024-04-06 14:43:49.056520
+INFO:root:Banca: 42.0, 2024-04-06 15:24:59.668856, 2024-04-06 15:40:17.713642
+INFO:root:Banca: -23.5, 2024-04-06 15:24:59.668856, 2024-04-06 15:56:03.657412
+INFO:root:Banca: -43.5, 2024-04-06 16:18:47.786191, 2024-04-06 16:32:14.059723
+INFO:root:Banca: 115.0, 2024-04-06 17:44:06.422254, 2024-04-06 17:59:53.553253
+INFO:root:Banca: 115.0, 2024-04-06 18:22:31.177456, 2024-04-06 18:37:06.795043
+INFO:root:Banca: 34.5, 2024-04-06 19:57:44.491776, 2024-04-06 20:10:10.337652
