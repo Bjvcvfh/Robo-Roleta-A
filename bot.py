@@ -18,9 +18,9 @@ time.sleep(5)
 janela = driver.window_handles[0]
 
 #Variaveis do Telegram##########################################################################
-TOKEN = '6918654241:AAEGSqhjnbwVyuYUJDUjasjl4tJZAkU9RMM'
+TOKEN = ''
 
-chat_id = '-1001937645179'
+chat_id = ''
 
 bot = telebot.TeleBot(token=TOKEN)
 
